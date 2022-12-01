@@ -1,0 +1,18 @@
+WAP to check if number prime or not using function 
+and also 
+check if number odd or even using function
+
+
+Assignment -6(Solve all again using function and lambda function) 
+1>	Print all prime number between a range ( for, while), using function and lambda function
+2>	Print all prime number range – n.(for while), using function and lambda function
+3>	Check a number is odd or even. using function and lambda function
+4>	Check a number is Armstrong or not, using function and lambda function
+5>	Check a string is palindrome or not, using function and lambda function
+6>	Print First 10 numbers using for and while, using function and lambda function
+7>	Input a list and reverse a string, using function and lambda function
+8>	Input a tuple and reverse a string, using function and lambda function
+9>	Write a program to find the sum of first n numbers, using function and lambda function
+10>	Write a program to show any multiplication table, using function and lambda function
+11>	Write a program to find odd and even number in range of n, using function and lambda function
+12> Write a program to find odd and even number between any range, using function and lambda function

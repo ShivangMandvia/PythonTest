@@ -1,0 +1,13 @@
+Assignment -3 
+1>	Print all prime number between a range ( for, while).
+2>	Print all prime number range – n.(for while).
+3>	Check a number is odd or even.
+4>	Check a number is Armstrong or not.
+5>	Check a string is palindrome or not.
+6>	Print First 10 numbers using for and while.
+7>	Input a list and reverse a string.
+8>	Input a tuple and reverse a string.
+9>	Write a program to find the sum of first n numbers.
+10>	Write a program to show any multiplication table.
+11>	Write a program to find odd and even number in range of n.
+12>Write a program to find odd and even number between any range
